@@ -24,7 +24,7 @@ If you want to search & filters the complete database of [.BEST one word domains
 | aaa.best        | available | 70       | 38%    | 3      |           |         |         |
 | abactinal.best  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.best      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.best  | available | 58       | 10%    | 9      |           |         |         |
+| abandoned.best  | available | 58       | 7%     | 9      |           |         |         |
 | abashed.best    | available | 60       | 2%     | 7      |           |         |         |
 | abasic.best     | available | 54       | 2%     | 6      |           |         |         |
 | abatable.best   | available | 54       | 1%     | 8      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.BEST one word domains
 | abaxial.best    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.best   | available | 50       | 1%     | 8      |           |         |         |
 | abdicable.best  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.best  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.best  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.best | available | 56       | 1%     | 10     |           |         |         |
 | abducens.best   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.best   | available | 68       | 1%     | 8      |           |         |         |
@@ -41,7 +41,7 @@ If you want to search & filters the complete database of [.BEST one word domains
 | aberdonian.best | available | 68       | 1%     | 10     |           |         |         |
 | aberrant.best   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.best    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.best  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.best  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.best    | available | 106      | 5%     | 7      |           |         |         |
 | abient.best     | available | 54       | 1%     | 6      |           |         |         |
 | ability.best    | available | 92       | 18%    | 7      |           |         |         |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.BEST one word domains
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
