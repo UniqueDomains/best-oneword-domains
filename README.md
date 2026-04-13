@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .best one-word domains from Unique
 
 **Public extract:** 8,352 rows · **Live catalog:** 8,351 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/best`  
 **Best for:** founders, investors, studios
 
@@ -74,16 +74,16 @@ print(df.head())
 | lord.best       | resell    | $5,748.85 | $29.99        | 84             | 28     | 4      | Dynadot LLC     |
 | data.best       | premium   | $1,038.96 | $1,038.96     | 70             | 56     | 4      | namecheap       |
 | athletics.best  | available | $23.08    | —             | 69             | 52     | 9      | namecheap       |
-| main.best       | resell    | —         | —             | 94             | 99     | 4      | Spaceship, Inc. |
+| rise.best       | resell    | —         | —             | 62             | 98     | 4      | Spaceship, Inc. |
 | true.best       | premium   | $91       | $91           | 86             | 52     | 4      | namecheap       |
 | gather.best     | available | $23.08    | —             | 96             | 38     | 6      | namecheap       |
-| rise.best       | resell    | —         | —             | 62             | 98     | 4      | Spaceship, Inc. |
+| orange.best     | resell    | —         | —             | 74             | 83     | 6      | Key-Systems LLC |
 | one.best        | premium   | $1,038.96 | $1,038.96     | 132            | 50     | 3      | namecheap       |
 | conscious.best  | available | $23.08    | —             | 89             | 38     | 9      | namecheap       |
-| orange.best     | resell    | —         | —             | 74             | 83     | 6      | Key-Systems LLC |
+| universal.best  | resell    | —         | —             | 96             | 81     | 9      | Dynadot LLC     |
 | big.best        | premium   | $1,038.96 | $1,038.96     | 88             | 47     | 3      | namecheap       |
 | forward.best    | available | $23.08    | —             | 68             | 38     | 7      | namecheap       |
-| universal.best  | resell    | —         | —             | 96             | 81     | 9      | Dynadot LLC     |
+| kick.best       | resell    | —         | —             | 98             | 80     | 4      | Sav.com, LLC    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BEST One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BEST One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
