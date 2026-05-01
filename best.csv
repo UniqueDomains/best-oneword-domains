@@ -410,6 +410,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 253ca2a3-2bc4-43bb-bd6c-bac17fadce33,amatter.best,available,23.08,,60,2,8,namecheap,,
 253ddc81-52e5-4f39-9184-17203d20142c,turnsup.best,available,2.35,17.79,56,1,8,namesilo,,
 257ca5b0-7aa7-492c-8d26-6a3b6c4c68cb,platepaper.best,available,23.08,,66,0,11,namecheap,,
+258bd096-aaad-4e6a-88ec-3e76ffeabb13,creation.best,resell,,,86,22,8,"Spaceship, Inc.",29/04/2026 21:21,29/04/2027 23:59
 259d8792-e952-4e5e-8299-600de61e9ab2,LordofHosts.best,available,23.08,,54,2,13,namecheap,,
 25aea14b-236b-4b0a-927a-6736811a0f08,happier.best,available,23.08,,62,16,7,namecheap,,
 25cf602c-2fa7-4113-bdd3-df8f9435e1e7,approaches.best,available,23.08,,70,3,10,namecheap,,
@@ -878,6 +879,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 51d59e8a-71d6-4783-9e46-2cb75af0e69f,fundamentalscience.best,available,23.08,,66,2,19,namecheap,,
 51d856e9-d229-4b14-ae60-3048a7bdea77,puddings.best,available,2.35,17.79,57,2,8,namesilo,,
 51e80f90-4e02-45ee-ab62-24e2b694953a,deeplearning.best,available,23.08,,74,23,13,namecheap,,
+51e822e5-5b30-46fa-a7eb-a7024d001683,won.best,premium,,,90,19,3,,,
 52079e7a-89c1-4bf9-9362-eeaa0e4fdd6e,practitioners.best,available,2.35,17.79,48,5,13,namesilo,,
 520b6ad5-ce4b-4320-b8df-b456ec880040,clearstuff.best,available,23.08,,70,1,11,namecheap,,
 524883d1-c70e-4c75-9c5c-20bf40682c32,neckrest.best,available,23.08,,56,1,9,namecheap,,
@@ -997,5 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5c7b61b3-3e58-457c-9178-6e9fc915fbbe,playaround.best,available,23.08,,72,5,11,namecheap,,
 5c93cb7a-6325-42ba-a27e-cc1d2702c7c5,oppositions.best,available,2.35,17.79,48,2,11,namesilo,,
 5c9766ae-bb3a-4827-8d34-0fbbb78847f0,coffeeandcakes.best,available,23.08,,72,2,16,namecheap,,
-5c9a8b5c-de04-49c1-b12b-795e1033813e,potatochips.best,available,23.08,,54,5,12,namecheap,,
-5ca37151-016d-41c6-99a3-43fb8ca41364,turnsback.best,available,2.35,17.79,53,1,10,namesilo,,
