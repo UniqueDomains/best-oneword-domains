@@ -63,6 +63,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 05f85b1a-a64c-487b-b251-b989a3d777a9,stepoff.best,available,23.08,,68,2,8,namecheap,,
 0611621e-2429-4cd6-afde-a824576a58e8,consents.best,available,23.08,,60,4,8,namecheap,,
 063b7537-a24d-42cd-95b2-39947e415143,desktoppublishing.best,available,23.08,,66,3,18,namecheap,,
+06425303-4fb8-4d8b-8ed7-2fbd35e77f4b,speaker.best,premium,,,74,20,7,,,
 064c0f22-559f-4119-9a67-87ce284a0d20,goballistic.best,available,23.08,,68,2,12,namecheap,,
 06529584-bc18-4da4-8cce-80e689dc718a,shalt.best,available,23.08,,56,1,5,namecheap,,
 06593a96-f76c-4048-b4b9-929082ef0194,fails.best,available,23.08,,46,7,5,namecheap,,
@@ -861,6 +862,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4f53f170-4ce2-47c4-aedd-e6adad0df946,setin.best,available,23.08,,68,5,6,namecheap,,
 4f68b405-690a-499e-a9b9-4961f29b7ca2,GoldenValley.best,available,23.08,,58,6,13,namecheap,,
 4f6db843-2217-4fd7-b84d-d901d019c897,officials.best,available,23.08,,49,8,9,namecheap,,
+4f8ebcc6-9a05-4632-a9bb-97cb0186d71e,tune.best,resell,,,68,28,4,"Spaceship, Inc.",01/05/2026 20:49,01/05/2027 23:59
 4f95d13a-553c-428a-b51f-75c13d6e1c7a,getupin.best,available,23.08,,74,1,9,namecheap,,
 4fa2ae40-a44c-457f-b9cd-14f5371ecfc2,ChildJesus.best,available,23.08,,56,2,11,namecheap,,
 4fa543fd-9378-462f-92a4-8e73706223c6,cometoanend.best,available,23.08,,62,1,14,namecheap,,
@@ -997,5 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5c00e275-6ddc-47b6-848a-bad878512d12,preferences.best,premium,98,98,80,7,11,namecheap,,
 5c0e26a1-5fa7-4692-a767-3d4624fb167d,queried.best,available,23.08,,57,2,7,namecheap,,
 5c1773ac-b8ec-46d3-a9b8-8b69818fcc90,surebet.best,available,23.08,,82,8,8,namecheap,,
-5c17cbec-dfaa-46d5-999f-88fc1126aecc,troublefree.best,available,23.08,,66,6,12,namecheap,,
-5c1d9171-e556-46e0-90bb-db52e3eccb95,thebird.best,available,2.35,17.79,58,6,8,namesilo,,
