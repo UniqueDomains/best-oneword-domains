@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .best one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,166 domains · **Median ask:** $63.17 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/best`  
 **Best for:** founders, investors, studios
 
@@ -77,7 +77,7 @@ print(df.head())
 | hangon.best   | available | $23.08    | —             | 82             | 6      | 7      | namecheap   |
 | getlife.best  | available | $23.08    | —             | 80             | 5      | 8      | namecheap   |
 | Snickers.best | available | $23.08    | —             | 80             | 10     | 8      | namecheap   |
-| rumcake.best  | available | $23.08    | —             | 81             | 3      | 8      | namecheap   |
+| rumcake.best  | available | $23.08    | —             | 81             | 2      | 8      | namecheap   |
 | farmers.best  | available | $23.08    | —             | 54             | 59     | 7      | namecheap   |
 | robots.best   | resell    | —         | —             | 62             | 47     | 6      | Dynadot LLC |
 | donuts.best   | premium   | $98       | $98           | 54             | 62     | 6      | namecheap   |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BEST One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BEST One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
