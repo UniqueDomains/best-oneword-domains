@@ -1,10 +1,10 @@
-# Available .BEST One-Word Domains (11,166)
+# Available .BEST One-Word Domains (11,167)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C166%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C167%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .best one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,166 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,167 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,166 domains · **Median ask:** $63.17 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,167 domains · **Median ask:** $49.94 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/best`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| won.best      | premium   | —         | —             | 90             | 19     | 3      | —           |
-| finals.best   | available | $2.35     | $17.79        | 80             | 7      | 6      | namesilo    |
-| barup.best    | available | $23.08    | —             | 82             | 2      | 6      | namecheap   |
-| geton.best    | available | $23.08    | —             | 82             | 10     | 6      | namecheap   |
-| getup.best    | available | $23.08    | —             | 82             | 15     | 6      | namecheap   |
-| useit.best    | available | $23.08    | —             | 94             | 7      | 6      | namecheap   |
-| alabama.best  | premium   | —         | —             | 80             | 19     | 7      | —           |
-| gearup.best   | available | $23.08    | —             | 80             | 16     | 7      | namecheap   |
-| playin.best   | available | $23.08    | —             | 80             | 10     | 7      | namecheap   |
-| playon.best   | available | $23.08    | —             | 80             | 14     | 7      | namecheap   |
-| hangon.best   | available | $23.08    | —             | 82             | 6      | 7      | namecheap   |
-| getlife.best  | available | $23.08    | —             | 80             | 5      | 8      | namecheap   |
-| Snickers.best | available | $23.08    | —             | 80             | 10     | 8      | namecheap   |
-| rumcake.best  | available | $23.08    | —             | 81             | 2      | 8      | namecheap   |
-| farmers.best  | available | $23.08    | —             | 54             | 59     | 7      | namecheap   |
-| robots.best   | resell    | —         | —             | 62             | 47     | 6      | Dynadot LLC |
-| donuts.best   | premium   | $98       | $98           | 54             | 62     | 6      | namecheap   |
-| heroes.best   | available | $23.08    | —             | 68             | 29     | 6      | namecheap   |
-| prompts.best  | resell    | —         | —             | 54             | 39     | 7      | Dynadot LLC |
-| WiFi.best     | premium   | $98       | $98           | 83             | 37     | 5      | namecheap   |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| intend.best     | available | $2.35     | $17.79        | 80             | 8      | 6      | namesilo        |
+| amount.best     | available | $2.35     | $17.79        | 102            | 9      | 6      | namesilo        |
+| palm.best       | resell    | —         | —             | 88             | 32     | 4      | Key-Systems LLC |
+| utmost.best     | available | $2.35     | $17.79        | 92             | 8      | 6      | namesilo        |
+| enduring.best   | premium   | —         | —             | 82             | 9      | 8      | —               |
+| fee.best        | available | $2.35     | $17.79        | 96             | 21     | 3      | namesilo        |
+| else.best       | available | $2.35     | $17.79        | 80             | 21     | 4      | namesilo        |
+| polyester.best  | available | $2.35     | $17.79        | 86             | 10     | 9      | namesilo        |
+| hinder.best     | available | $2.35     | $17.79        | 98             | 5      | 6      | namesilo        |
+| explain.best    | premium   | —         | —             | 84             | 16     | 7      | —               |
+| abroach.best    | available | $21.98    | —             | 82             | 1      | 7      | namecheap       |
+| flat.best       | premium   | $91       | $91           | 116            | 27     | 4      | namecheap       |
+| midJanuary.best | available | $23.08    | —             | 98             | 1      | 11     | namecheap       |
+| intro.best      | resell    | —         | —             | 106            | 29     | 5      | Sav.com, LLC    |
+| space.best      | premium   | $510.98   | $510.98       | 80             | 60     | 5      | namesilo        |
+| Cindy.best      | available | $2.35     | $17.79        | 80             | 15     | 5      | namesilo        |
+| further.best    | available | $2.35     | $17.79        | 100            | 14     | 7      | namesilo        |
+| sushi.best      | premium   | $98       | $98           | 84             | 31     | 5      | namecheap       |
+| healing.best    | available | $2.35     | $17.79        | 82             | 31     | 7      | namesilo        |
+| heroic.best     | available | $23.08    | —             | 100            | 22     | 6      | namecheap       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,166 live domains                        |
+| 1,000-row public sample | 11,167 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BEST One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BEST One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
