@@ -1,10 +1,10 @@
-# Available .BEST One-Word Domains (11,167)
+# Available .BEST One-Word Domains (11,190)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C167%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C190%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .best one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,167 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,190 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,167 domains · **Median ask:** $49.94 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,190 domains · **Median ask:** $43.98 · **High-demand under $2,500:** 32
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/best`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/best`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .BEST one-word domain 
 
 ### Files
 
-- `best.csv` — public CSV extract (1,000 rows)
-- `best.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `best.csv`, public CSV extract (1,000 rows)
+- `best.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| intend.best     | available | $2.35     | $17.79        | 80             | 8      | 6      | namesilo        |
-| amount.best     | available | $2.35     | $17.79        | 102            | 9      | 6      | namesilo        |
-| palm.best       | resell    | —         | —             | 88             | 32     | 4      | Key-Systems LLC |
-| utmost.best     | available | $2.35     | $17.79        | 92             | 8      | 6      | namesilo        |
-| enduring.best   | premium   | —         | —             | 82             | 9      | 8      | —               |
-| fee.best        | available | $2.35     | $17.79        | 96             | 21     | 3      | namesilo        |
-| else.best       | available | $2.35     | $17.79        | 80             | 21     | 4      | namesilo        |
-| polyester.best  | available | $2.35     | $17.79        | 86             | 10     | 9      | namesilo        |
-| hinder.best     | available | $2.35     | $17.79        | 98             | 5      | 6      | namesilo        |
-| explain.best    | premium   | —         | —             | 84             | 16     | 7      | —               |
-| abroach.best    | available | $21.98    | —             | 82             | 1      | 7      | namecheap       |
-| flat.best       | premium   | $91       | $91           | 116            | 27     | 4      | namecheap       |
-| midJanuary.best | available | $23.08    | —             | 98             | 1      | 11     | namecheap       |
-| intro.best      | resell    | —         | —             | 106            | 29     | 5      | Sav.com, LLC    |
-| space.best      | premium   | $510.98   | $510.98       | 80             | 60     | 5      | namesilo        |
-| Cindy.best      | available | $2.35     | $17.79        | 80             | 15     | 5      | namesilo        |
-| further.best    | available | $2.35     | $17.79        | 100            | 14     | 7      | namesilo        |
-| sushi.best      | premium   | $98       | $98           | 84             | 31     | 5      | namecheap       |
-| healing.best    | available | $2.35     | $17.79        | 82             | 31     | 7      | namesilo        |
-| heroic.best     | available | $23.08    | —             | 100            | 22     | 6      | namecheap       |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| axe.best  | available | $2.35     | $17.79        | medium         | low    | 3      | namesilo        |
+| aid.best  | resell    | —         | —             | medium         | low    | 3      | Dynadot LLC     |
+| big.best  | premium   | $1,038.96 | $1,038.96     | high           | medium | 3      | namecheap       |
+| btw.best  | available | $2.35     | $17.79        | high           | low    | 3      | namesilo        |
+| bay.best  | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC    |
+| BJP.best  | premium   | $98       | $98           | medium         | low    | 3      | namecheap       |
+| dew.best  | available | $2.35     | $17.79        | medium         | low    | 3      | namesilo        |
+| hide.best | resell    | —         | —             | high           | low    | 4      | Dynadot LLC     |
+| CNN.best  | premium   | $1,022.98 | $1,022.98     | high           | low    | 3      | namesilo        |
+| fee.best  | available | $2.35     | $17.79        | high           | low    | 3      | namesilo        |
+| palm.best | resell    | —         | —             | high           | low    | 4      | Key-Systems LLC |
+| her.best  | premium   | $1,022.98 | $1,022.98     | medium         | low    | 3      | namesilo        |
+| hic.best  | available | $2.35     | $17.79        | high           | low    | 3      | namesilo        |
+| room.best | resell    | —         | —             | high           | low    | 4      | Dynadot LLC     |
+| hit.best  | premium   | $1,022.98 | $1,022.98     | high           | low    | 3      | namesilo        |
+| ixc.best  | available | $2.28     | $29.98        | low            | low    | 3      | namecheap       |
+| rush.best | resell    | —         | —             | medium         | low    | 4      | Dynadot LLC     |
+| inc.best  | premium   | $1,022.98 | $1,022.98     | medium         | low    | 3      | namesilo        |
+| lay.best  | available | $2.35     | $17.79        | medium         | low    | 3      | namesilo        |
+| send.best | resell    | —         | —             | high           | low    | 4      | Dynadot LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,167 live domains                        |
+| 1,000-row public sample | 11,190 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 32 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is defined by a single trait: every domain ends in .best. That creates a broad mix of dictionary words, surnames, short verbs, and brandable terms such as won.best, finals.best, getup.best, and detail.best. For founders, the main question is whether the phrase feels credible and memorable with .best attached. For investors, the key is price discipline, because the median ask is 62.74 and resale stats are not established here. When comparing these domains, favor words that read naturally, are easy to say, and do not create obvious trademark friction or awkward meaning with the extension.
+This selection covers one-word .best domain names across a wide range of styles, from everyday words to playful and pop-culture-inspired names. Pricing skews low: 9,664 of the 11,190 names cost under $500, with only a small tail priced above $2,000. Demand signals are mostly modest, though a subset of 34 names shows high demand and 18 sit in the top 15% by demand score. For founders, 7,001 names are flagged as easy to spell and 8,626 lean toward a modern tone. For investors, a handful of listings show notable spread between ask price and reference value, such as names priced under $3 with reference prices in the thousands.
 
-- All names in this set use the .best extension
-- Median ask across the selection is 62.74
-- Check whether the word pairs naturally with .best
-- Avoid names with clear trademark or ambiguity risk
+- 11,190 one-word .best domains, median ask ~$44
+- 9,664 priced under $500; only 22 above $5,000
+- 10,198 available now, 661 premium, 331 resell
+- 7,001 easy-to-spell names; 8,626 skew modern in tone
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BEST One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BEST One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
