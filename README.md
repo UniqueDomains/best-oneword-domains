@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .best one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 18,965 domains · **Median ask:** $26.27 · **High-demand under $2,500:** 37
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/best`
 **Best for:** founders, investors, studios
 
@@ -64,8 +64,6 @@ print(df.head())
 
 | domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| room.best   | resell    | —         | —             | high           | low    | 4      | Dynadot LLC     |
-| clean.best  | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc. |
 | axe.best    | available | $2.35     | $17.79        | medium         | low    | 3      | namesilo        |
 | fabric.best | resell    | $2.35     | $17.79        | medium         | low    | 6      | Spaceship, Inc. |
 | big.best    | premium   | $1,038.96 | $1,038.96     | high           | medium | 3      | namecheap       |
@@ -82,8 +80,10 @@ print(df.head())
 | palm.best   | resell    | —         | —             | high           | low    | 4      | Key-Systems LLC |
 | hit.best    | premium   | $1,022.98 | $1,022.98     | high           | low    | 3      | namesilo        |
 | hic.best    | available | $2.35     | $17.79        | high           | low    | 3      | namesilo        |
+| room.best   | resell    | —         | —             | high           | low    | 4      | Dynadot LLC     |
 | inc.best    | premium   | $1,022.98 | $1,022.98     | medium         | low    | 3      | namesilo        |
 | ixc.best    | available | $2.28     | $29.98        | low            | low    | 3      | namecheap       |
+| rush.best   | resell    | —         | —             | medium         | low    | 4      | Dynadot LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BEST One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BEST One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
