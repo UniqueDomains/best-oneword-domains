@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .best one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,875 domains · **Median ask:** $23.90 · **High-demand under $2,500:** 39
 
-**Last updated:** 2026-09-14
+**Last updated:** 2026-09-15
 **Canonical page:** `https://unique.domains/domains/tld/best`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| clean.best     | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc. |
-| fuck.best      | premium   | $1,022.98 | $1,022.98     | high           | high   | 4      | namesilo        |
-| wrong.best     | available | $2.35     | $17.79        | high           | low    | 5      | namesilo        |
-| wholesale.best | premium   | $83.30    | $83.30        | high           | low    | 9      | namesilo        |
-| complete.best  | premium   | $23.08    | —             | high           | low    | 8      | namecheap       |
-| axe.best       | available | $2.35     | $17.79        | medium         | low    | 3      | namesilo        |
-| fabric.best    | resell    | $2.35     | $17.79        | medium         | low    | 6      | Spaceship, Inc. |
-| big.best       | premium   | $1,038.96 | $1,038.96     | high           | medium | 3      | namecheap       |
-| btw.best       | available | $2.35     | $17.79        | high           | low    | 3      | namesilo        |
-| aid.best       | resell    | —         | —             | medium         | low    | 3      | Dynadot LLC     |
-| BJP.best       | premium   | $98       | $98           | medium         | low    | 3      | namecheap       |
-| bum.best       | available | $2.28     | $29.98        | low            | low    | 3      | namecheap       |
-| bay.best       | resell    | —         | —             | low            | low    | 3      | Spaceship, Inc. |
-| CNN.best       | premium   | $1,022.98 | $1,022.98     | high           | low    | 3      | namesilo        |
-| dew.best       | available | $2.35     | $17.79        | medium         | low    | 3      | namesilo        |
-| hide.best      | resell    | —         | —             | high           | low    | 4      | Dynadot LLC     |
-| her.best       | premium   | $1,022.98 | $1,022.98     | medium         | low    | 3      | namesilo        |
-| fee.best       | available | $2.35     | $17.79        | high           | low    | 3      | namesilo        |
-| palm.best      | resell    | —         | —             | high           | low    | 4      | Key-Systems LLC |
-| hit.best       | premium   | $1,022.98 | $1,022.98     | high           | low    | 3      | namesilo        |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| axe.best    | available | $2.35     | $17.79        | medium         | low    | 3      | namesilo        |
+| fabric.best | resell    | $2.35     | $17.79        | medium         | low    | 6      | Spaceship, Inc. |
+| big.best    | premium   | $1,038.96 | $1,038.96     | high           | medium | 3      | namecheap       |
+| btw.best    | available | $2.35     | $17.79        | high           | low    | 3      | namesilo        |
+| aid.best    | resell    | —         | —             | medium         | low    | 3      | Dynadot LLC     |
+| BJP.best    | premium   | $98       | $98           | medium         | low    | 3      | namecheap       |
+| bum.best    | available | $2.28     | $29.98        | low            | low    | 3      | namecheap       |
+| bay.best    | resell    | —         | —             | low            | low    | 3      | Spaceship, Inc. |
+| CNN.best    | premium   | $1,022.98 | $1,022.98     | high           | low    | 3      | namesilo        |
+| dew.best    | available | $2.35     | $17.79        | medium         | low    | 3      | namesilo        |
+| hide.best   | resell    | —         | —             | high           | low    | 4      | Dynadot LLC     |
+| her.best    | premium   | $1,022.98 | $1,022.98     | medium         | low    | 3      | namesilo        |
+| fee.best    | available | $2.35     | $17.79        | high           | low    | 3      | namesilo        |
+| palm.best   | resell    | —         | —             | high           | low    | 4      | Key-Systems LLC |
+| hit.best    | premium   | $1,022.98 | $1,022.98     | high           | low    | 3      | namesilo        |
+| hic.best    | available | $2.35     | $17.79        | high           | low    | 3      | namesilo        |
+| room.best   | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc     |
+| inc.best    | premium   | $1,022.98 | $1,022.98     | medium         | low    | 3      | namesilo        |
+| ixc.best    | available | $2.28     | $29.98        | low            | low    | 3      | namecheap       |
+| rush.best   | resell    | —         | —             | medium         | low    | 4      | Dynadot LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BEST One-Word Domains*. Version 2026-09-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BEST One-Word Domains*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
