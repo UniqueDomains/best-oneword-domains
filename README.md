@@ -1,10 +1,10 @@
-# Available .BEST One-Word Domains (22,875)
+# Available .BEST One-Word Domains (23,491)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C875%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C491%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .best one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,875 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,491 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,875 domains · **Median ask:** $23.90 · **High-demand under $2,500:** 39
+**Public extract:** 1,000 rows · **Live catalog:** 23,491 domains · **Median ask:** $23.32 · **High-demand under $2,500:** 39
 
-**Last updated:** 2026-09-15
+**Last updated:** 2026-09-17
 **Canonical page:** `https://unique.domains/domains/tld/best`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| axe.best    | available | $2.35     | $17.79        | medium         | low    | 3      | namesilo        |
-| fabric.best | resell    | $2.35     | $17.79        | medium         | low    | 6      | Spaceship, Inc. |
-| big.best    | premium   | $1,038.96 | $1,038.96     | high           | medium | 3      | namecheap       |
-| btw.best    | available | $2.35     | $17.79        | high           | low    | 3      | namesilo        |
-| aid.best    | resell    | —         | —             | medium         | low    | 3      | Dynadot LLC     |
-| BJP.best    | premium   | $98       | $98           | medium         | low    | 3      | namecheap       |
-| bum.best    | available | $2.28     | $29.98        | low            | low    | 3      | namecheap       |
-| bay.best    | resell    | —         | —             | low            | low    | 3      | Spaceship, Inc. |
-| CNN.best    | premium   | $1,022.98 | $1,022.98     | high           | low    | 3      | namesilo        |
-| dew.best    | available | $2.35     | $17.79        | medium         | low    | 3      | namesilo        |
-| hide.best   | resell    | —         | —             | high           | low    | 4      | Dynadot LLC     |
-| her.best    | premium   | $1,022.98 | $1,022.98     | medium         | low    | 3      | namesilo        |
-| fee.best    | available | $2.35     | $17.79        | high           | low    | 3      | namesilo        |
-| palm.best   | resell    | —         | —             | high           | low    | 4      | Key-Systems LLC |
-| hit.best    | premium   | $1,022.98 | $1,022.98     | high           | low    | 3      | namesilo        |
-| hic.best    | available | $2.35     | $17.79        | high           | low    | 3      | namesilo        |
-| room.best   | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc     |
-| inc.best    | premium   | $1,022.98 | $1,022.98     | medium         | low    | 3      | namesilo        |
-| ixc.best    | available | $2.28     | $29.98        | low            | low    | 3      | namecheap       |
-| rush.best   | resell    | —         | —             | medium         | low    | 4      | Dynadot LLC     |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| clean.best     | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc. |
+| fuck.best      | premium   | $1,022.98 | $1,022.98     | high           | high   | 4      | namesilo        |
+| wrong.best     | available | $2.35     | $17.79        | high           | low    | 5      | namesilo        |
+| wholesale.best | premium   | $83.30    | $83.30        | high           | low    | 9      | namesilo        |
+| complete.best  | premium   | $23.08    | —             | high           | low    | 8      | namecheap       |
+| axe.best       | available | $2.35     | $17.79        | medium         | low    | 3      | namesilo        |
+| fabric.best    | resell    | $2.35     | $17.79        | medium         | low    | 6      | Spaceship, Inc. |
+| big.best       | premium   | $1,038.96 | $1,038.96     | high           | medium | 3      | namecheap       |
+| btw.best       | available | $2.35     | $17.79        | high           | low    | 3      | namesilo        |
+| aid.best       | resell    | —         | —             | medium         | low    | 3      | Dynadot LLC     |
+| BJP.best       | premium   | $98       | $98           | medium         | low    | 3      | namecheap       |
+| bum.best       | available | $2.28     | $29.98        | low            | low    | 3      | namecheap       |
+| bay.best       | resell    | —         | —             | low            | low    | 3      | Spaceship, Inc. |
+| CNN.best       | premium   | $1,022.98 | $1,022.98     | high           | low    | 3      | namesilo        |
+| dew.best       | available | $2.35     | $17.79        | medium         | low    | 3      | namesilo        |
+| hide.best      | resell    | —         | —             | high           | low    | 4      | Dynadot LLC     |
+| her.best       | premium   | $1,022.98 | $1,022.98     | medium         | low    | 3      | namesilo        |
+| fee.best       | available | $2.35     | $17.79        | high           | low    | 3      | namesilo        |
+| palm.best      | resell    | —         | —             | high           | low    | 4      | Key-Systems LLC |
+| hit.best       | premium   | $1,022.98 | $1,022.98     | high           | low    | 3      | namesilo        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,875 live domains                        |
+| 1,000-row public sample | 23,491 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 39 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -115,6 +115,7 @@ If this sample already feels useful, Unique Domains is where the exact search be
 - `registrar`, Registrar name when known.
 - `created_at`, Creation timestamp when known.
 - `expires_at`, Expiry timestamp when known.
+- `status_verified_at`, When status was last established against the registry. Null means never checked.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
@@ -132,6 +133,7 @@ See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 ## 🔄 Update policy
 
 - This repository is refreshed regularly from the same export pipeline used for public dataset repos.
+- The snapshot date above is when this file was written, not when each row was checked. Read `status_verified_at` for that: a name whose status was last established months ago is exported with its real date rather than the snapshot's.
 - The README count targets the live catalog count from the public landing response when available.
 - The CSV and JSON files contain the public extract only and may not match the full live catalog size.
 - Stable historical references should be published via GitHub Releases outside this repository snapshot.
@@ -142,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BEST One-Word Domains*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BEST One-Word Domains*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
