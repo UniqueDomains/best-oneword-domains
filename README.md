@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .best one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 28,453 domains · **Median ask:** $19.18 · **High-demand under $2,500:** 34
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/best`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| fuck.best   | premium   | $1,022.98 | $1,022.98     | high           | high   | 4      | namesilo        |
-| wrong.best  | available | $2.35     | $17.79        | high           | low    | 5      | namesilo        |
 | axe.best    | available | $2.35     | $17.79        | medium         | low    | 3      | namesilo        |
 | adult.best  | resell    | $91       | $91           | medium         | low    | 5      | namecheap       |
 | big.best    | premium   | $1,193.76 | $1,193.76     | medium         | low    | 3      | namecheap       |
 | btw.best    | available | $2.35     | $17.79        | high           | low    | 3      | namesilo        |
-| fabric.best | resell    | $2.35     | $17.79        | medium         | low    | 6      | Spaceship, Inc. |
+| brown.best  | resell    | $2.35     | $17.79        | medium         | low    | 5      | namesilo        |
 | bjp.best    | premium   | $98       | $98           | medium         | low    | 3      | namecheap       |
 | bum.best    | available | $2.28     | $29.98        | low            | low    | 3      | namecheap       |
-| bay.best    | resell    | —         | —             | low            | low    | 3      | Spaceship, Inc. |
+| fabric.best | resell    | $2.35     | $17.79        | medium         | low    | 6      | Spaceship, Inc. |
 | cnn.best    | premium   | $1,022.98 | $1,022.98     | high           | low    | 3      | namesilo        |
 | dew.best    | available | $2.35     | $17.79        | medium         | low    | 3      | namesilo        |
-| hide.best   | resell    | —         | —             | high           | low    | 4      | Dynadot LLC     |
+| bay.best    | resell    | —         | —             | low            | low    | 3      | Spaceship, Inc. |
 | her.best    | premium   | $1,022.98 | $1,022.98     | medium         | low    | 3      | namesilo        |
 | feb.best    | available | $2.35     | $17.79        | high           | low    | 3      | namesilo        |
-| palm.best   | resell    | —         | —             | high           | low    | 4      | Key-Systems LLC |
+| hide.best   | resell    | —         | —             | high           | low    | 4      | Dynadot LLC     |
 | hit.best    | premium   | $1,022.98 | $1,022.98     | high           | low    | 3      | namesilo        |
 | fee.best    | available | $2.35     | $17.79        | high           | low    | 3      | namesilo        |
-| room.best   | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc     |
+| palm.best   | resell    | —         | —             | high           | low    | 4      | Key-Systems LLC |
 | inc.best    | premium   | $1,022.98 | $1,022.98     | medium         | low    | 3      | namesilo        |
+| hic.best    | available | $2.35     | $17.79        | high           | low    | 3      | namesilo        |
+| room.best   | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BEST One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BEST One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
