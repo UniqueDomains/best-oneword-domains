@@ -1,10 +1,10 @@
-# Available .BEST One-Word Domains (28,296)
+# Available .BEST One-Word Domains (29,771)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C296%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C771%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .best one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **28,296 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **29,771 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 28,296 domains · **Median ask:** $24.13 · **High-demand under $2,500:** 90
+**Public extract:** 1,000 rows · **Live catalog:** 29,771 domains · **Median ask:** $23.82 · **High-demand under $2,500:** 93
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/best`
 **Best for:** founders, investors, studios
 
@@ -70,19 +70,19 @@ print(df.head())
 | azo.best      | available | $2.28     | $29.98        | high           | low    | 3      | namecheap        |
 | adult.best    | resell    | $91       | $91           | high           | low    | 5      | GoDaddy.com, LLC |
 | her.best      | premium   | $1,159.86 | $1,159.86     | high           | low    | 3      | namesilo         |
-| eta.best      | available | $2.35     | $22.99        | high           | low    | 3      | namesilo         |
+| emg.best      | available | $2.35     | $22.99        | high           | low    | 3      | namesilo         |
 | montreal.best | resell    | $23.08    | —             | high           | low    | 8      | namecheap        |
 | icu.best      | premium   | $95.52    | $95.52        | high           | low    | 3      | namesilo         |
-| fca.best      | available | $1.68     | $18.88        | high           | low    | 3      | spaceship        |
+| eta.best      | available | $2.35     | $22.99        | high           | low    | 3      | namesilo         |
 | ant.best      | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
 | ora.best      | premium   | $937.35   | $937.35       | high           | medium | 3      | spaceship        |
-| iwo.best      | available | $1.63     | $18.47        | medium         | low    | 3      | dynadot          |
+| fca.best      | available | $1.68     | $18.88        | high           | low    | 3      | spaceship        |
 | esl.best      | resell    | —         | —             | high           | low    | 3      | —                |
 | war.best      | premium   | $95.69    | $95.69        | high           | low    | 3      | namesilo         |
-| lap.best      | available | $2.35     | $22.99        | high           | low    | 3      | namesilo         |
+| iwo.best      | available | $1.63     | $18.47        | medium         | low    | 3      | dynadot          |
 | set.best      | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.  |
 | boat.best     | premium   | $1,163.21 | $1,163.21     | high           | low    | 4      | namesilo         |
-| nne.best      | available | $2.28     | $29.98        | high           | low    | 3      | namecheap        |
+| jac.best      | available | $2.28     | $29.98        | high           | low    | 3      | namecheap        |
 | ten.best      | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 28,296 live domains                        |
+| 1,000-row public sample | 29,771 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 90 high-demand names under $2,500          |
+| Basic exported fields   | 93 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BEST One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BEST One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
